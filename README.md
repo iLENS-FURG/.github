@@ -1,41 +1,25 @@
-# iLENS
+# iLENS — Internet through a Lens
 
-### Internet through a Lens
+**Measuring, Understanding, and Engineering the Internet**
 
-**Measuring, Understanding, and Engineering the Internet.**
+iLENS is a research initiative within the **SYSTEMS Research Group at the Federal University of Rio Grande (FURG)**.
 
-iLENS is a research area within the SYSTEMS Research Group at
-the Federal University of Rio Grande (FURG), Brazil.
+We investigate how the Internet operates and evolves through **measurement, data analysis, experiments, and reproducible research**.
 
-We study the Internet through measurement, experimentation,
-and systems research, with a focus on understanding its
-architecture, operation, security, and evolution — and on
-engineering solutions that can improve its operation.
+Our work spans:
 
-## Research
+**Architecture · Routing · Security · Interconnection · Operations · Governance**
 
-- 🌐 Internet Architecture
-- 📊 Internet Measurement
-- 🔀 Internet Routing
-- 🔐 Routing Security
-- 🤝 Peering & Interconnection
-- ⚙️ Network Operations
-- 🏛️ Internet Governance
+---
 
-## Research Projects
+### 🌐 Explore iLENS
 
+**[ilens.furg.br](https://ilens.furg.br)**
 
-## People
+Discover our research, people, projects, publications, datasets, software, and Internet observatories.
 
-[See the iLENS team →](...)
+---
 
-## Publications
-
-[Google Scholar](...)
-[DBLP](...)
-[ORCID](...)
-
-## Part of
-
-**SYSTEMS Research Group**  
-Federal University of Rio Grande — FURG
+<p align="center">
+  <strong>Measure the Internet. Understand its behavior. Engineer it with evidence.</strong>
+</p>
